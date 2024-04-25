@@ -1,0 +1,15 @@
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\bin\Debug\net8.0\ProjectDeonjeon.exe
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\bin\Debug\net8.0\ProjectDeonjeon.deps.json
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\bin\Debug\net8.0\ProjectDeonjeon.runtimeconfig.json
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\bin\Debug\net8.0\ProjectDeonjeon.dll
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\bin\Debug\net8.0\ProjectDeonjeon.pdb
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.AssemblyInfoInputs.cache
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.AssemblyInfo.cs
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.csproj.CoreCompileInputs.cache
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.dll
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\refint\ProjectDeonjeon.dll
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.pdb
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.genruntimeconfig.cache
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ref\ProjectDeonjeon.dll
+D:\Sparta_Unity_Course\C#Learning\ProjectDeonjeon\ProjectDeonjeon\obj\Debug\net8.0\ProjectDeonjeon.sourcelink.json
