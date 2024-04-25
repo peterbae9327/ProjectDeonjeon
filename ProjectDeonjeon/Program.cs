@@ -153,6 +153,7 @@ namespace ProjectDeonjeon
                         deonjeonplay = EnterDeonJeon(Defense);
                         if(deonjeonplay.choice == 0)//돌아가기
                         {
+                            Clear();
                             break;
                         }
                         else if(deonjeonplay.choice >= 1 && deonjeonplay.choice <= 3)//성공(1~3)
