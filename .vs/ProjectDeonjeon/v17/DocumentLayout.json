@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sparta_Unity_Course\\C#Learning\\ProjectDeonjeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B22554-E593-4BDA-AC0F-570CBFFEC476}|ProjectDeonjeon\\ProjectDeonjeon.csproj|d:\\sparta_unity_course\\c#learning\\projectdeonjeon\\projectdeonjeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B22554-E593-4BDA-AC0F-570CBFFEC476}|ProjectDeonjeon\\ProjectDeonjeon.csproj|solutionrelative:projectdeonjeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sparta_Unity_Course\\C#Learning\\ProjectDeonjeon\\ProjectDeonjeon\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectDeonjeon\\Program.cs",
+              "ToolTip": "D:\\Sparta_Unity_Course\\C#Learning\\ProjectDeonjeon\\ProjectDeonjeon\\Program.cs",
+              "RelativeToolTip": "ProjectDeonjeon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:58:50.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
